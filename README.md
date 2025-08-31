@@ -6,7 +6,7 @@ El sistema permite adquirir datos ambientales en tiempo real, con posibilidad de
 
 ## Archivos incluidos
 
-- **SHT40-test.ino**  
+- **SHT40.ino**  
   Código base de prueba que inicializa el sensor y muestra lecturas de temperatura (°C) y humedad relativa (%) en el monitor serial cada 2 segundos.
 
 ## Requisitos
