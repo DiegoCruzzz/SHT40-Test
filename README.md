@@ -9,8 +9,6 @@ El sistema permite adquirir datos ambientales en tiempo real, con posibilidad de
 - **SHT40-test.ino**  
   Código base de prueba que inicializa el sensor y muestra lecturas de temperatura (°C) y humedad relativa (%) en el monitor serial cada 2 segundos.
 
-- *(Futuros archivos podrán incluir integración con WiFi/MQTT para enviar datos a la nube).*
-
 ## Requisitos
 
 - **Arduino IDE**  
