@@ -27,15 +27,4 @@ El sensor SHT40 utiliza comunicación **I2C**. En el ESP32, las conexiones recom
 
 > ⚠️ Importante: el SHT40 debe alimentarse con **3.3V** para evitar daños.
 
-## Aplicación
-
-Este sistema puede utilizarse en proyectos donde se requiera conocer las condiciones ambientales, como:
-
-- Estaciones meteorológicas personales  
-- Sistemas de automatización del hogar  
-- Monitoreo de invernaderos o laboratorios  
-- Aplicaciones IoT con envío de datos a la nube  
-
----
-
 © Diego Barajas, 2025
