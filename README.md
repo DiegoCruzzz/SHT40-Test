@@ -27,4 +27,3 @@ El sensor SHT40 utiliza comunicación **I2C**. En el ESP32, las conexiones recom
 
 > ⚠️ Importante: el SHT40 debe alimentarse con **3.3V** para evitar daños.
 
-© Diego Barajas, 2025
